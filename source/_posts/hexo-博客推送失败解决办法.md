@@ -1,17 +1,8 @@
 ---
 title: hexo 博客推送失败解决办法
 date: 2022.1.30
-updated:
 type: solutions
-comments:
-description:
-keywords:
-top_img:
-mathjax:
-katex:
-aside:
-aplayer:
-highlight_shrink:
+
 ---
 
 # 关于hexo更新博客内容失败
