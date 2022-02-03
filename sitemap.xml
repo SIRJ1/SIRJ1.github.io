@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/02/03/hexo%E6%9B%B4%E6%96%B0%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</loc>
+    <loc>https://sirj1.com/2022/02/03/hexo%E6%9B%B4%E6%96%B0%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/01/30/hexo-%E5%8D%9A%E5%AE%A2%E6%8E%A8%E9%80%81%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
+    <loc>https://sirj1.com/2022/01/30/hexo-%E5%8D%9A%E5%AE%A2%E6%8E%A8%E9%80%81%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/02/03/hello-world/</loc>
+    <loc>https://sirj1.com/2022/02/03/hello-world/</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/02/01/HAHAHA/</loc>
+    <loc>https://sirj1.com/2022/02/01/HAHAHA/</loc>
     
     <lastmod>2022-02-01</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://sirj1.com/link/index.html</loc>
     
     <lastmod>2022-01-29</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://sirj1.com/categories/index.html</loc>
     
     <lastmod>2022-01-29</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://sirj1.com/tags/index.html</loc>
     
     <lastmod>2022-01-29</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://sirj1.com/</loc>
     <lastmod>2022-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
