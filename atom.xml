@@ -6,7 +6,7 @@
   <link href="https://sirj1.com/atom.xml" rel="self"/>
   
   <link href="https://sirj1.com/"/>
-  <updated>2022-02-03T10:16:05.043Z</updated>
+  <updated>2022-02-03T10:26:58.932Z</updated>
   <id>https://sirj1.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://sirj1.com/2022/02/03/gitalk-%E6%9C%AA%E6%89%BE%E5%88%B0%E7%9B%B8%E5%85%B3%E7%9A%84Issues%E8%BF%9B%E8%A1%8C%E8%AF%84%E8%AE%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
     <id>https://sirj1.com/2022/02/03/gitalk-%E6%9C%AA%E6%89%BE%E5%88%B0%E7%9B%B8%E5%85%B3%E7%9A%84Issues%E8%BF%9B%E8%A1%8C%E8%AF%84%E8%AE%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
     <published>2022-02-03T10:10:51.641Z</published>
-    <updated>2022-02-03T10:16:05.043Z</updated>
+    <updated>2022-02-03T10:26:58.932Z</updated>
     
     <content type="html"><![CDATA[<h3 id="gitalk-未找到相关的Issues进行评论解决方法"><a href="#gitalk-未找到相关的Issues进行评论解决方法" class="headerlink" title="gitalk 未找到相关的Issues进行评论解决方法"></a>gitalk 未找到相关的Issues进行评论解决方法</h3><p>搭建博客的时候用gitalk作为评论框架，结果配置完成进行测试的时候发现出现</p><p><strong>未找到相关的Issues进行评论，请联系XXX进行创建</strong></p><p>登录之后发现评论功能也无法显示</p><hr><p>以下为解决方法</p><p>因为这里使用了自己的域名</p><p>在github的settings —–&gt;developer settings—-&gt;OAuth application gitalk那个应用的设置中需要把</p><p><code>Homepage URL</code>设置为 用户名.github.io精确到https的地址</p><p><code>Authorization callback URL</code>直接填写注册的域名就可以，注意也要精确到https</p><p>update之后进行正常登录github即可评论</p>]]></content>
     
@@ -33,6 +33,12 @@
     
     
     
+    <category term="solutions" scheme="https://sirj1.com/categories/solutions/"/>
+    
+    
+    <category term="gitalk" scheme="https://sirj1.com/tags/gitalk/"/>
+    
+    <category term="github" scheme="https://sirj1.com/tags/github/"/>
     
   </entry>
   

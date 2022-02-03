@@ -82,6 +82,27 @@
   </url>
 
   
+  <url>
+    <loc>https://sirj1.com/tags/gitalk/</loc>
+    <lastmod>2022-02-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sirj1.com/tags/github/</loc>
+    <lastmod>2022-02-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://sirj1.com/categories/solutions/</loc>
+    <lastmod>2022-02-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
