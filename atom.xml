@@ -36,9 +36,9 @@
     <category term="solutions" scheme="https://sirj1.com/categories/solutions/"/>
     
     
-    <category term="github" scheme="https://sirj1.com/tags/github/"/>
-    
     <category term="gitalk" scheme="https://sirj1.com/tags/gitalk/"/>
+    
+    <category term="github" scheme="https://sirj1.com/tags/github/"/>
     
   </entry>
   
@@ -64,9 +64,9 @@
     <category term="solutions" scheme="https://sirj1.com/categories/solutions/"/>
     
     
-    <category term="hexo" scheme="https://sirj1.com/tags/hexo/"/>
-    
     <category term="github" scheme="https://sirj1.com/tags/github/"/>
+    
+    <category term="hexo" scheme="https://sirj1.com/tags/hexo/"/>
     
   </entry>
   
