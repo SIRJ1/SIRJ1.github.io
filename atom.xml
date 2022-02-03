@@ -47,7 +47,7 @@
     <link href="https://sirj1.com/2022/02/03/hexo%E6%9B%B4%E6%96%B0%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
     <id>https://sirj1.com/2022/02/03/hexo%E6%9B%B4%E6%96%B0%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
     <published>2022-02-03T05:21:23.509Z</published>
-    <updated>2022-02-03T05:21:23.509Z</updated>
+    <updated>2022-02-03T10:46:11.501Z</updated>
     
     <content type="html"><![CDATA[<p>使用hexo deplay的时候总是超时报错</p><p>解决方式为在_config文件中的url使用SSH地址来代替https地址</p>]]></content>
     
@@ -61,6 +61,12 @@
     
     
     
+    <category term="solutions" scheme="https://sirj1.com/categories/solutions/"/>
+    
+    
+    <category term="github" scheme="https://sirj1.com/tags/github/"/>
+    
+    <category term="hexo" scheme="https://sirj1.com/tags/hexo/"/>
     
   </entry>
   
